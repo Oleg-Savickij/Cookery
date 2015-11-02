@@ -1,4 +1,5 @@
 ﻿using Cookery.Domain.Model;
+using Cookery.Domain.Model.CommonInterface;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,12 +8,8 @@ using System.Threading.Tasks;
 
 namespace Cookery.Domain.Service.Interface
 {
-    public interface IRoleService
+    public interface IRoleService : IDomainService<Role>
     {
-        Role Add(Role item);
-        Role Get(int id);
-        List<Role> Get();
-        Role Update(Role item);
-        void Delete(int id);
+       
     }
 }

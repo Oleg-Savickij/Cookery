@@ -1,4 +1,5 @@
 ﻿using Cookery.Domain.Model;
+using Cookery.Domain.Model.CommonInterface;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,12 +8,8 @@ using System.Threading.Tasks;
 
 namespace Cookery.Domain.Service.Interface
 {
-    public interface ICommentsService
+    public interface ICommentsService:IDomainService<Comments>
     {
-        Comments Add(Comments item);
-        Comments Get(int id);
-        List<Comments> Get();
-        Comments Update(Comments item);
-        void Delete(int id);
+        
     }
 }

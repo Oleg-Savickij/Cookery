@@ -1,4 +1,5 @@
 ﻿using Cookery.Domain.Model;
+using Cookery.Domain.Model.CommonInterface;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,12 +8,8 @@ using System.Threading.Tasks;
 
 namespace Cookery.Domain.Service.Interface
 {
-    public interface IFavoriteService
+    public interface IFavoriteService : IDomainService<Favorite>
     {
-        Favorite Add(Favorite item);
-        Favorite Get(int id);
-        List<Favorite> Get();
-        Favorite Update(Favorite item);
-        void Delete(int id);
+        
     }
 }

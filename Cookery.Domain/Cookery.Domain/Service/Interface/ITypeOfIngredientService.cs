@@ -1,4 +1,5 @@
 ﻿using Cookery.Domain.Model;
+using Cookery.Domain.Model.CommonInterface;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,12 +8,8 @@ using System.Threading.Tasks;
 
 namespace Cookery.Domain.Service.Interface
 {
-    public interface ITypeOfIngredientService
+    public interface ITypeOfIngredientService : IDomainService<TypeOfIngredient>
     {
-        TypeOfIngredient Add(TypeOfIngredient item);
-        TypeOfIngredient Get(int id);
-        List<TypeOfIngredient> Get();
-        TypeOfIngredient Update(TypeOfIngredient item);
-        void Delete(int id);
+      
     }
 }

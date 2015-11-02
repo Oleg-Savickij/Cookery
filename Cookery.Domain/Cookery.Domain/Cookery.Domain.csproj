@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Model\Comments.cs" />
+    <Compile Include="Model\CommonInterface\IDomainService.cs" />
     <Compile Include="Model\Common\BaseModel.cs" />
     <Compile Include="Model\Favorite.cs" />
     <Compile Include="Model\Ingredient.cs" />
