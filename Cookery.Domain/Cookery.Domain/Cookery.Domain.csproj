@@ -40,8 +40,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CommonInterface\IDomainServiceAsync.cs" />
     <Compile Include="Model\Comments.cs" />
-    <Compile Include="Model\CommonInterface\IDomainService.cs" />
+    <Compile Include="CommonInterface\IDomainService.cs" />
     <Compile Include="Model\Common\BaseModel.cs" />
     <Compile Include="Model\Favorite.cs" />
     <Compile Include="Model\Ingredient.cs" />
@@ -52,12 +53,20 @@
     <Compile Include="Model\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Service\Interface\ICommentsService.cs" />
+    <Compile Include="Service\Interface\ICommentsServiceAsync.cs" />
+    <Compile Include="Service\Interface\IFavoriteServiceAsync.cs" />
     <Compile Include="Service\Interface\IFavoriteService.cs" />
+    <Compile Include="Service\Interface\IIngredientServiceAsync.cs" />
     <Compile Include="Service\Interface\IIngredientService.cs" />
+    <Compile Include="Service\Interface\IRateServiceAsync.cs" />
     <Compile Include="Service\Interface\IRateService.cs" />
+    <Compile Include="Service\Interface\IRecipeServiceAsync.cs" />
     <Compile Include="Service\Interface\IRecipeService.cs" />
+    <Compile Include="Service\Interface\IRoleServiceAsync.cs" />
     <Compile Include="Service\Interface\IRoleService.cs" />
+    <Compile Include="Service\Interface\ITypeOfIngredientServiceAsync.cs" />
     <Compile Include="Service\Interface\ITypeOfIngredientService.cs" />
+    <Compile Include="Service\Interface\IUserServiceAsync.cs" />
     <Compile Include="Service\Interface\IUserService.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

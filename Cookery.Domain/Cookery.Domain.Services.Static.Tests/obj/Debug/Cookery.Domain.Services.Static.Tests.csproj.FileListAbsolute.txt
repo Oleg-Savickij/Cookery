@@ -7,3 +7,12 @@ C:\Users\Oleg\Source\Repos\NewRepo\Cookery.Domain\Cookery.Domain.Services.Static
 C:\Users\Oleg\Source\Repos\NewRepo\Cookery.Domain\Cookery.Domain.Services.Static.Tests\obj\Debug\Cookery.Domain.Services.Static.Tests.pdb
 C:\Users\Oleg\Source\Repos\NewRepo\Cookery.Domain\Cookery.Domain.Services.Static.Tests\bin\Debug\Cookery.Domain.Services.Static.dll
 C:\Users\Oleg\Source\Repos\NewRepo\Cookery.Domain\Cookery.Domain.Services.Static.Tests\bin\Debug\Cookery.Domain.Services.Static.pdb
+C:\Users\Oleg\Source\Repos\Cookery2\Cookery.Domain\Cookery.Domain.Services.Static.Tests\bin\Debug\Cookery.Domain.Services.Static.Tests.dll
+C:\Users\Oleg\Source\Repos\Cookery2\Cookery.Domain\Cookery.Domain.Services.Static.Tests\bin\Debug\Cookery.Domain.Services.Static.Tests.pdb
+C:\Users\Oleg\Source\Repos\Cookery2\Cookery.Domain\Cookery.Domain.Services.Static.Tests\bin\Debug\Cookery.Domain.dll
+C:\Users\Oleg\Source\Repos\Cookery2\Cookery.Domain\Cookery.Domain.Services.Static.Tests\bin\Debug\Cookery.Domain.Services.Static.dll
+C:\Users\Oleg\Source\Repos\Cookery2\Cookery.Domain\Cookery.Domain.Services.Static.Tests\bin\Debug\Cookery.Domain.Services.Static.pdb
+C:\Users\Oleg\Source\Repos\Cookery2\Cookery.Domain\Cookery.Domain.Services.Static.Tests\bin\Debug\Cookery.Domain.pdb
+C:\Users\Oleg\Source\Repos\Cookery2\Cookery.Domain\Cookery.Domain.Services.Static.Tests\obj\Debug\Cookery.Domain.Services.Static.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Source\Repos\Cookery2\Cookery.Domain\Cookery.Domain.Services.Static.Tests\obj\Debug\Cookery.Domain.Services.Static.Tests.dll
+C:\Users\Oleg\Source\Repos\Cookery2\Cookery.Domain\Cookery.Domain.Services.Static.Tests\obj\Debug\Cookery.Domain.Services.Static.Tests.pdb

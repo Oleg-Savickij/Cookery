@@ -3,3 +3,8 @@ C:\Users\Oleg\Source\Repos\NewRepo\Cookery.Domain\Cookery.Domain\bin\Debug\Cooke
 C:\Users\Oleg\Source\Repos\NewRepo\Cookery.Domain\Cookery.Domain\obj\Debug\Cookery.Domain.csprojResolveAssemblyReference.cache
 C:\Users\Oleg\Source\Repos\NewRepo\Cookery.Domain\Cookery.Domain\obj\Debug\Cookery.Domain.dll
 C:\Users\Oleg\Source\Repos\NewRepo\Cookery.Domain\Cookery.Domain\obj\Debug\Cookery.Domain.pdb
+C:\Users\Oleg\Source\Repos\Cookery2\Cookery.Domain\Cookery.Domain\bin\Debug\Cookery.Domain.dll
+C:\Users\Oleg\Source\Repos\Cookery2\Cookery.Domain\Cookery.Domain\bin\Debug\Cookery.Domain.pdb
+C:\Users\Oleg\Source\Repos\Cookery2\Cookery.Domain\Cookery.Domain\obj\Debug\Cookery.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Source\Repos\Cookery2\Cookery.Domain\Cookery.Domain\obj\Debug\Cookery.Domain.dll
+C:\Users\Oleg\Source\Repos\Cookery2\Cookery.Domain\Cookery.Domain\obj\Debug\Cookery.Domain.pdb
