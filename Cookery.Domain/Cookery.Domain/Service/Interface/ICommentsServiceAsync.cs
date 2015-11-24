@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Cookery.Domain.Service.Interface
 {
-    interface ICommentsServiceAsync:IDomainServiceAsync<Comments>
+    public interface ICommentsServiceAsync:IDomainServiceAsync<Comments>
     {
     }
 }

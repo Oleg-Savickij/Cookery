@@ -41,9 +41,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CommentsService.cs" />
+    <Compile Include="CommentsServiceAsync.cs" />
     <Compile Include="Common\DomainService.cs" />
     <Compile Include="Common\DomainServiceAsync.cs" />
     <Compile Include="FavoriteService.cs" />
+    <Compile Include="FavoriteServiceAsync.cs" />
     <Compile Include="IngredientService.cs" />
     <Compile Include="RateService.cs" />
     <Compile Include="RecipeService.cs" />
