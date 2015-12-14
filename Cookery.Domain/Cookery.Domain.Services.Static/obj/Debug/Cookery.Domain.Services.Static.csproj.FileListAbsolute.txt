@@ -12,3 +12,10 @@ C:\Users\Oleg\Source\Repos\Cookery2\Cookery.Domain\Cookery.Domain.Services.Stati
 C:\Users\Oleg\Source\Repos\Cookery2\Cookery.Domain\Cookery.Domain.Services.Static\obj\Debug\Cookery.Domain.Services.Static.csprojResolveAssemblyReference.cache
 C:\Users\Oleg\Source\Repos\Cookery2\Cookery.Domain\Cookery.Domain.Services.Static\obj\Debug\Cookery.Domain.Services.Static.dll
 C:\Users\Oleg\Source\Repos\Cookery2\Cookery.Domain\Cookery.Domain.Services.Static\obj\Debug\Cookery.Domain.Services.Static.pdb
+C:\Users\katex\Documents\GitHubVisualStudio\Cookery\Cookery.Domain\Cookery.Domain.Services.Static\bin\Debug\Cookery.Domain.Services.Static.dll
+C:\Users\katex\Documents\GitHubVisualStudio\Cookery\Cookery.Domain\Cookery.Domain.Services.Static\bin\Debug\Cookery.Domain.Services.Static.pdb
+C:\Users\katex\Documents\GitHubVisualStudio\Cookery\Cookery.Domain\Cookery.Domain.Services.Static\bin\Debug\Cookery.Domain.dll
+C:\Users\katex\Documents\GitHubVisualStudio\Cookery\Cookery.Domain\Cookery.Domain.Services.Static\bin\Debug\Cookery.Domain.pdb
+C:\Users\katex\Documents\GitHubVisualStudio\Cookery\Cookery.Domain\Cookery.Domain.Services.Static\obj\Debug\Cookery.Domain.Services.Static.csprojResolveAssemblyReference.cache
+C:\Users\katex\Documents\GitHubVisualStudio\Cookery\Cookery.Domain\Cookery.Domain.Services.Static\obj\Debug\Cookery.Domain.Services.Static.dll
+C:\Users\katex\Documents\GitHubVisualStudio\Cookery\Cookery.Domain\Cookery.Domain.Services.Static\obj\Debug\Cookery.Domain.Services.Static.pdb

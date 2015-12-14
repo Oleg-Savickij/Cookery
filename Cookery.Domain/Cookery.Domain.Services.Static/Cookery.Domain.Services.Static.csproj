@@ -46,11 +46,17 @@
     <Compile Include="Common\DomainServiceAsync.cs" />
     <Compile Include="FavoriteService.cs" />
     <Compile Include="FavoriteServiceAsync.cs" />
+    <Compile Include="IngredientServiceAsync.cs" />
     <Compile Include="IngredientService.cs" />
+    <Compile Include="RateServiceAsync.cs" />
     <Compile Include="RateService.cs" />
+    <Compile Include="RecipeServiceAsync.cs" />
     <Compile Include="RecipeService.cs" />
+    <Compile Include="RoleServiceAsync.cs" />
     <Compile Include="RoleService.cs" />
+    <Compile Include="TypeOfIngredientServiceAsync.cs" />
     <Compile Include="TypeOfIngredientService.cs" />
+    <Compile Include="UserServiceAsync.cs" />
     <Compile Include="UserService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

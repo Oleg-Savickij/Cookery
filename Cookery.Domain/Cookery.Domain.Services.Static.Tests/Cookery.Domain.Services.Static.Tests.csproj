@@ -52,14 +52,15 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="CommentsServiceTests.cs" />
-    <Compile Include="FavoriteServiceTests.cs" />
-    <Compile Include="IngredientServiceTests.cs" />
-    <Compile Include="RecipeServiceTests.cs" />
-    <Compile Include="RateServiceTests.cs" />
-    <Compile Include="RoleServiceTests.cs" />
-    <Compile Include="TypeOfIngredientServiceTests.cs" />
-    <Compile Include="UserServiceTests.cs" />
+    <Compile Include="AsyncTests\CommentsServiceAsyncTests.cs" />
+    <Compile Include="Tests\CommentsServiceTests.cs" />
+    <Compile Include="Tests\FavoriteServiceTests.cs" />
+    <Compile Include="Tests\IngredientServiceTests.cs" />
+    <Compile Include="Tests\RecipeServiceTests.cs" />
+    <Compile Include="Tests\RateServiceTests.cs" />
+    <Compile Include="Tests\RoleServiceTests.cs" />
+    <Compile Include="Tests\TypeOfIngredientServiceTests.cs" />
+    <Compile Include="Tests\UserServiceTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
