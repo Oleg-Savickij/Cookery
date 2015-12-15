@@ -10,11 +10,11 @@ namespace Cookery.Domain.Services.Static.Common
 {
     public abstract class DomainServiceAsync<T> : DomainService<T>, IDomainServiceAsync<T> where T : BaseModel
     {
-        private readonly int delay;
+        private readonly int delay;       
 
         public DomainServiceAsync() : this(5000)
         {
-
+           
         }
 
         public DomainServiceAsync(int delay)

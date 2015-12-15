@@ -48,6 +48,7 @@
     <Compile Include="FavoriteServiceAsync.cs" />
     <Compile Include="IngredientServiceAsync.cs" />
     <Compile Include="IngredientService.cs" />
+    <Compile Include="logger\logger.cs" />
     <Compile Include="RateServiceAsync.cs" />
     <Compile Include="RateService.cs" />
     <Compile Include="RecipeServiceAsync.cs" />
