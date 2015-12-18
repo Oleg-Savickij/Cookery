@@ -1,6 +1,8 @@
 ﻿using Cookery.Domain.Model;
 using Cookery.Domain.Service.Interface;
 using Cookery.Domain.Services.Static.Common;
+using Cookery.Domain.Services.Static.CSVContext;
+using Cookery.Domain.Services.Static.CSVContext.Common;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,11 +13,10 @@ namespace Cookery.Domain.Services.Static
 {
     public class CommentsService: DomainService<Comments>,ICommentsService
     {
-        private readonly List<Comments> entities = new List<Comments>();
-
+        private readonly ICSVContext<Comments> _comments = new CommentsContext();
         protected override List<Comments> GetEntities()
         {
-            return entities;
+            return _comments.Get();
         }
     }
 }

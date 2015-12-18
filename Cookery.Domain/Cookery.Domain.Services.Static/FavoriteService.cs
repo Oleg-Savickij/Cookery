@@ -2,6 +2,8 @@
 using Cookery.Domain.Model.CommonInterface;
 using Cookery.Domain.Service.Interface;
 using Cookery.Domain.Services.Static.Common;
+using Cookery.Domain.Services.Static.CSVContext;
+using Cookery.Domain.Services.Static.CSVContext.Common;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,10 +14,10 @@ namespace Cookery.Domain.Services.Static
 {
     public class FavoriteService:DomainService<Favorite>,IFavoriteService
     {
-        private readonly List<Favorite> _favorites = new List<Favorite>();
+        private readonly ICSVContext<Favorite> _favorites = new FavoriteContext();
         protected override List<Favorite> GetEntities()
         {
-            return _favorites;
+            return _favorites.Get();
         }
 
 

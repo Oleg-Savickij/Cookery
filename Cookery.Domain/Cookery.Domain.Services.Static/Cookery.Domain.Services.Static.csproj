@@ -44,6 +44,11 @@
     <Compile Include="CommentsServiceAsync.cs" />
     <Compile Include="Common\DomainService.cs" />
     <Compile Include="Common\DomainServiceAsync.cs" />
+    <Compile Include="CSVContext\CommentsContext.cs" />
+    <Compile Include="CSVContext\Common\ICSVContext.cs" />
+    <Compile Include="CSVContext\FavoriteContext.cs" />
+    <Compile Include="CSVContext\IngredientContext.cs" />
+    <Compile Include="CSVContext\UserContext.cs" />
     <Compile Include="FavoriteService.cs" />
     <Compile Include="FavoriteServiceAsync.cs" />
     <Compile Include="IngredientServiceAsync.cs" />
