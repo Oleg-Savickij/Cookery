@@ -12,7 +12,7 @@ namespace Cookery.Domain.Services.Static.logger
 
         public static void OnAddInfo (object sender, int id)
         {
-            using (StreamWriter logFile = new StreamWriter("log.txt"))
+            using (StreamWriter logFile = new StreamWriter("log.txt",true))
             {
                 logFile.WriteLine("{0} {1}", "Add new entity with id ",id);
             }
@@ -21,7 +21,7 @@ namespace Cookery.Domain.Services.Static.logger
 
         public static void OnDeleteInfo(object sender, int id)
         {
-            using (StreamWriter logFile = new StreamWriter("log.txt"))
+            using (StreamWriter logFile = new StreamWriter("log.txt",true))
             {
                 logFile.WriteLine("{0} {1}", "Delete entity with id ",id);
             }
