@@ -48,6 +48,10 @@
     <Compile Include="CSVContext\Common\ICSVContext.cs" />
     <Compile Include="CSVContext\FavoriteContext.cs" />
     <Compile Include="CSVContext\IngredientContext.cs" />
+    <Compile Include="CSVContext\RateContext.cs" />
+    <Compile Include="CSVContext\RecipeContext.cs" />
+    <Compile Include="CSVContext\RoleContext.cs" />
+    <Compile Include="CSVContext\TypeOfIngredientContext.cs" />
     <Compile Include="CSVContext\UserContext.cs" />
     <Compile Include="FavoriteService.cs" />
     <Compile Include="FavoriteServiceAsync.cs" />
